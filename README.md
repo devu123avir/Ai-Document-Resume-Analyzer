@@ -10,6 +10,31 @@ An AI-powered web application built with Python and Streamlit that helps users a
 * **Resume vs. Job Description Analysis:** Compare a resume with a job description to identify matching and potentially missing skills or keywords.
 * **Downloadable PDF Report:** Download an analysis report for future reference.
 
+## Screenshots
+
+### 1. Application Interface
+
+![Application Interface](screenshots/Screenshot%202026-10-23%20161608%20-%20Copy.png)
+
+### 2. AI-Powered Document Summary
+
+![AI Summary](screenshots/Screenshot%202026-10-23%20161643.png)
+
+### 3. Chat with PDF
+
+![Chat with PDF](screenshots/Screenshot%202026-10-23%20161655.png)
+
+### 4. Resume vs. Job Description Analysis
+
+![Resume Analysis](screenshots/Screenshot%202026-10-23%20161709.png)
+
+### 5. Downloadable PDF Report
+
+![PDF Report](screenshots/Screenshot%202026-10-23%20161742.png)
+
+
+
+
 ## Technology Stack
 
 * Python
